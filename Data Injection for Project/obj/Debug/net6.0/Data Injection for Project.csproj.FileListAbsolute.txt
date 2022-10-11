@@ -1,0 +1,18 @@
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/bin/Debug/net6.0/Data Injection for Project
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/bin/Debug/net6.0/Data Injection for Project.deps.json
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/bin/Debug/net6.0/Data Injection for Project.runtimeconfig.json
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/bin/Debug/net6.0/Data Injection for Project.dll
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/bin/Debug/net6.0/Data Injection for Project.pdb
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/bin/Debug/net6.0/Npgsql.dll
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.csproj.AssemblyReference.cache
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.AssemblyInfoInputs.cache
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.AssemblyInfo.cs
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.csproj.CoreCompileInputs.cache
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.csproj.CopyComplete
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.dll
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/refint/Data Injection for Project.dll
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.pdb
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/Data Injection for Project.genruntimeconfig.cache
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/obj/Debug/net6.0/ref/Data Injection for Project.dll
+/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/bin/Debug/net6.0/Dapper.dll

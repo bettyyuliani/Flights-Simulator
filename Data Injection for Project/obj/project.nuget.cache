@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jfe0v6oh+lcQ/vTUgQGyvBjmd2mhCXRQg2eqREcMXSqUxMdwu+GPOpH1fQMUM9kMnOKiSilteDCFykjHaKfO+Q==",
+  "success": true,
+  "projectFilePath": "/Users/bettyyuliani/Documents/SIT315/Data Injection for Project/Data Injection for Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/bettyyuliani/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/bettyyuliani/.nuget/packages/npgsql/6.0.5/npgsql.6.0.5.nupkg.sha512",
+    "/Users/bettyyuliani/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

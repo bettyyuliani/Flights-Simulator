@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class Map implements Runnable {
 
-    final String API_KEY = "AIzaSyCkoaeyCC8hhozMxy0OR_zBvlQvx1QuwAY";
+    final String API_KEY = <YOUR API KEY>;
     private final int id;
     private final String origin, destination, iconLink, fileName;
     private String flightID;
